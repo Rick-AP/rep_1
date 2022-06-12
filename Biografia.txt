@@ -1,2 +1,3 @@
 Mi biografia 
 Mi nombre es ricardo y tengo 30 años
+Esta aprendiendo git y github
